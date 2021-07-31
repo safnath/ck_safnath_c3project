@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="bisht_utkarsh_C3_Project-master" />
+        <module name="library-demo" />
+        <module name="Restaurant_project -Student version" />
+        <module name="safnath_ck_c3_project" />
+        <module name="Restaurant_project" />
+        <module name="c3 project" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
